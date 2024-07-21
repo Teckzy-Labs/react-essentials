@@ -18,19 +18,8 @@
     }
   },
   "keywords": [
-    "react",
-    "template",
-    "react-testing-library",
-    "testing-library",
-    "eslint",
-    "npm",
-    "rollup",
-    "stylelint",
-    "library",
-    "package",
-    "vite",
-    "css-modules",
-    "typescript"
+    "teckzylab",
+    "react-core-hooks"
   ],
   "description": "Missing React, typescript NPM library creation template",
   "scripts": {
